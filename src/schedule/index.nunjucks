@@ -1,0 +1,84 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+
+{% block content %}
+<div class="container">
+<p>Under construction</p>
+  {# <p><a href="https://www.youtube.com/playlist?list=PLmRDkQf8W1WFpwUKnc8Z6mK6iaNncnb1z">See the presentations on Youtube</a></p>
+  <section class="schedule-section">
+    <h2>Friday 10.6.</h2>
+    <table class="table">
+      <tr>
+        <td>17:00</td>
+        <td>Doors open</td>
+      </tr>
+      <tr>
+        <td>18:00</td>
+        <td>Opening ceremony</td>
+      </tr>
+      <tr>
+        <td>18:30</td>
+        <td>The demoscene</td>
+      </tr>
+      <tr>
+        <td>19:30</td>
+        <td>Basics of demo programming</td>
+      </tr>
+    </table>
+    <p>Doors close around midnight.</p>
+  </section>
+
+  <section class="schedule-section">
+    <h2>Saturday 11.6.</h2>
+    <table class="table">
+      <tr>
+        <td>8:00</td>
+        <td>Doors open</td>
+      </tr>
+      <tr>
+        <td>16:00</td>
+        <td>Rightware presentation about shaders</td>
+      </tr>
+    </table>
+    <p>We are open the night from Saturday to Sunday.</p>
+  </section>
+
+  <section class="schedule-section">
+    <h2>Sunday 12.6.</h2>
+    <table class="table">
+      <tr>
+        <td>14:00</td>
+        <td>Deadline for demos</td>
+      </tr>
+      <tr>
+        <td>14:15</td>
+        <td><a href="{{ baseUrl }}presentations/additive_slides.pdf">Making Music With Shaders</a></td>
+      </tr>
+      <tr>
+        <td>14:45</td>
+        <td><a href="{{ baseUrl }}presentations/graffathon-2016-nvidia-gpuarch.pdf">Modern GPU Architecture</a></td>
+      </tr>
+      <tr>
+        <td>15:15</td>
+        <td>BBQ</td>
+      </tr>
+      <tr>
+        <td>17:30</td>
+        <td>Oldschool compo</td>
+      </tr>
+      <tr>
+        <td>18:00</td>
+        <td>Beginner compo</td>
+      </tr>
+      <tr>
+        <td>21:00</td>
+        <td>Awards</td>
+      </tr>
+    </table>
+  </section> #}
+</div>
+{% endblock %}
