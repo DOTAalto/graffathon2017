@@ -10,14 +10,16 @@ $(function() {
     // Sorry mobile users, detecting autoplay videos is annoyingly hard.
     $('.disclaimer').remove();
   } else {
-    var videos = ['F-oi62m6pdY', 'UBcR7tHa9jw', 'kbtYSxX9cT8', '0e5ZiSYSnzA', 'T4iAnZHsZVM', 'R9BFVLYqzrk'];
+    var videos = ['T4iAnZHsZVM', 'F-oi62m6pdY', 'R9BFVLYqzrk', 'UBcR7tHa9jw', 'kbtYSxX9cT8', '0e5ZiSYSnzA'];
     $('#youtube').css('opacity', 0);
     YouTubeIframeLoader.load(function (YT) {
       var player = new YT.Player('youtube', {
-        videoId: videos[Math.floor(Math.random() * videos.length)], // YouTube Video ID
+        //videoId: videos,//[Math.floor(Math.random() * videos.length)], // YouTube Video ID
+        //playlist: videos,
         width: 1066,               // Player width (in px)
         height: 600,              // Player height (in px)
         playerVars: {
+          playlist: videos,
           autoplay: 1,        // Auto-play the video on load
           controls: 0,        // Show pause/play buttons in player
           showinfo: 0,        // Hide the video title
@@ -31,6 +33,7 @@ $(function() {
         events: {
           onReady: function(e) {
             e.target.mute();
+            e.target.playVideo();
             function checkIfVideoPlaying() {
               if (player.getPlayerState() === 1) {
                 $('#youtube').css('opacity', 1);
