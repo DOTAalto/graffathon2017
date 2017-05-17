@@ -41,11 +41,11 @@
     <div class="container">
       <div class="header">
         <h1>Graffathon <span>2017</span></h1>
-        {# <div class="fb">
-          <a href="https://www.facebook.com/events/1097993556930608/1110439679019329/">
+        <div class="fb">
+          <a href="https://www.facebook.com/events/993479250788928/">
             <img src="{{ baseUrl }}images/find-us.png" alt="Find us on Facebook">
           </a>
-        </div> #}
+        </div>
         <div class="navigation">
           <a href="{{ baseUrl }}">Home</a>
           <a href="{{ baseUrl }}getting-started">Getting started</a>
