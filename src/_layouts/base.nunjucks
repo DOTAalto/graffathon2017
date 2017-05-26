@@ -52,6 +52,7 @@
           {# <a href="{{ baseUrl }}results">Results</a> #}
           {# <a href="{{ baseUrl }}schedule">Schedule</a> #}
           <a href="{{ baseUrl }}location">Location</a>
+          <a href="https://t.me/graffathon">Telegram</a>
           <a href="/2016/">2016</a>
         </div>
       </div>
