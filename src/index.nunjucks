@@ -47,8 +47,9 @@
     <div class="who-is-behind-this">
       <div class="logos">
         <a href="http://dot.ayy.fi"><img src="http://dot.ayy.fi/uploads/images/dot_logo_2011_small.png" alt="Digital Media Club Aalto University"></a>
-        {# <a href="https://www.nvidia.co.uk/page/home.html"><img src="{{ baseUrl }}images/nvidia.png" alt="Nvidia"></a>
-        <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
+        <a href="https://futurice.com/" class="futurice-logo"><img src="{{ baseUrl }}images/futurice.svg" alt="Futurice"></a>
+        <a href="http://www.hackjunction.com/" class="junction-logo"><img src="{{ baseUrl }}images/junction.jpg" alt="Junction"></a>
+        {# <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
         <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.svg" alt="Futuremark"></a>
         <a href="http://www.rightware.com/"><img src="{{ baseUrl }}images/rightware.png" alt="Rightware"></a> #}
       </div>

@@ -211,10 +211,13 @@ body {
     img {
       width: 250px;
       margin: 20px;
+      border: 1px red solid;
     }
-    .futuremark img {
-      width: 350px;
-      margin-bottom: 25px;
+    .futurice-logo img {
+      padding-bottom: 25px;
+    }
+    .junction-logo img {
+      width: 100px;
     }
   }
   p {
@@ -226,6 +229,7 @@ body {
     width: 250px;
   }
 }
+
 .oubs-promo {
   text-align: right;
   font-size: 14px;
