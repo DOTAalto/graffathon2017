@@ -49,9 +49,10 @@
         <a href="http://dot.ayy.fi"><img src="http://dot.ayy.fi/uploads/images/dot_logo_2011_small.png" alt="Digital Media Club Aalto University"></a>
         <a href="https://futurice.com/" class="futurice-logo"><img src="{{ baseUrl }}images/futurice.svg" alt="Futurice"></a>
         <a href="http://www.hackjunction.com/" class="junction-logo"><img src="{{ baseUrl }}images/junction.jpg" alt="Junction"></a>
+        <a href="http://www.rightware.com/" class="rightware-logo"><img src="{{ baseUrl }}images/rightware.png" alt="Rightware"></a>
         {# <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
         <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.svg" alt="Futuremark"></a>
-        <a href="http://www.rightware.com/"><img src="{{ baseUrl }}images/rightware.png" alt="Rightware"></a> #}
+         #}
       </div>
 
       <p>The event is organized by the active members of DOT board and the facilities are provided by Aalto ES. Thanks to <a href="http://oubs.ayy.fi">OUBS</a> for streaming the event.<br> Contact us at dot-hallitus@list.ayy.fi</p>
