@@ -50,6 +50,7 @@
         <a href="https://futurice.com/" class="futurice-logo"><img src="{{ baseUrl }}images/futurice.svg" alt="Futurice"></a>
         <a href="http://www.hackjunction.com/" class="junction-logo"><img src="{{ baseUrl }}images/junction.jpg" alt="Junction"></a>
         <a href="http://www.rightware.com/" class="rightware-logo"><img src="{{ baseUrl }}images/rightware.png" alt="Rightware"></a>
+        <a href="https://www.tuxera.com/"><img src="{{ baseUrl }}images/tuxera.svg" alt="Tuxera"></a>
         {# <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
         <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.svg" alt="Futuremark"></a>
          #}
