@@ -12,6 +12,9 @@ $(function() {
   } else {
     var videos = ['T4iAnZHsZVM', 'F-oi62m6pdY', 'R9BFVLYqzrk', 'UBcR7tHa9jw', 'kbtYSxX9cT8', '0e5ZiSYSnzA'];
     $('#youtube').css('opacity', 0);
+    if (window.location.href.indexOf('dance') >= 0) {
+      videos = ['uFO4Riu5DjU'];
+    }
     YouTubeIframeLoader.load(function (YT) {
       var player = new YT.Player('youtube', {
         //videoId: videos,//[Math.floor(Math.random() * videos.length)], // YouTube Video ID
