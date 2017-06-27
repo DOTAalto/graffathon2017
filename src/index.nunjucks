@@ -52,7 +52,8 @@
         <a href="http://www.rightware.com/" class="rightware-logo"><img src="{{ baseUrl }}images/rightware.png" alt="Rightware"></a>
         <a href="https://www.tuxera.com/"><img src="{{ baseUrl }}images/tuxera.svg" alt="Tuxera"></a>
         <a class="assembly-logo" href="http://www.assembly.org/summer17"><img src="{{ baseUrl }}images/assembly.png" alt="Assembly"></a>
-        <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.svg" alt="Futuremark"></a>
+        <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.png" alt="Futuremark"></a>
+        <a class="aaltoes" href="https://aaltoes.com/"><img src="{{ baseUrl }}images/aaltoes.png" alt="AaltoES"></a>
         {# <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
          #}
       </div>
