@@ -54,6 +54,7 @@
         <a class="assembly-logo" href="http://www.assembly.org/summer17"><img src="{{ baseUrl }}images/assembly.png" alt="Assembly"></a>
         <a class="futuremark" href="http://www.futuremark.com/"><img src="{{ baseUrl }}images/futuremark.png" alt="Futuremark"></a>
         <a class="aaltoes" href="https://aaltoes.com/"><img src="{{ baseUrl }}images/aaltoes.png" alt="AaltoES"></a>
+        <a class="umbra" href="http://umbra3d.com/"><img src="{{ baseUrl }}images/umbra.png" alt="Umbra"></a>
         {# <a href="https://reaktor.com/"><img src="{{ baseUrl }}images/reaktor.png" alt="Reaktor"></a>
          #}
       </div>
