@@ -16,21 +16,40 @@
     <li>Rocket is a tool for syncing music and visuals in demoscene productions. <a href="http://www.graffathon.fi/downloads/Rocket/">Download the binaries here</a>. <a href="https://github.com/kusma/rocket">Github repository</a> has further documentation.</li>
     <li>Moonlander is a library for using Rocket in Processing. <a href="http://www.graffathon.fi/downloads/Moonlander/">Read more and download.</a></li>
   </ul>
-  {#
+
   <h2>Production rules</h2>
   <ul>
-    <li>Maximum showing time is 2 minutes.</li>
-    <li>Resolution is 1920x1080 @ 60 Hz.</li>
-    <li>Teams should have 1-4 members.</li>
+    <li>1920 x 1080 screen size highly recommended</li>
+    <li>Production must be run in real time and not just be a pre-rendered video<br>
+      <ul>
+        <li>Your production may, however, use pre-rendered material</li>
+      </ul>
+    </li>
+    <li>You must own or have the permission to use all the material in your production</li>
+    <li>Organizers reserve the right to augment or modify the competition rules if deemed necessary</li>
+    <li>The size of the production must be under 300mb<br>
+      <ul>
+        <li>We recommend that the production is much under this size</li>
+        <li>If the size of your production is too large, talk with the organizers to figure things out</li>
+      </ul>
+    </li>
+    <li>The production must be uploaded to <a href="http://graffathonpartysystem.dy.fi">http://graffathonpartysystem.dy.fi</a> before the deadline</li>
+    <li>Teams should have 1-3 members.</li>
   </ul>
-  #}
-  {#
   <h2>Machine specs</h2>
   <ul>
-    <li>i7-3930K</li>
-    <li>Nvidia Geforce GTX 980 Ti</li>
-    <li>16 GB RAM</li>
+    <li>Xeon E3-1230 v3 (about Core i5-4670K)</li>
+    <li>GTX1060 (6GB)</li>
+    <li>8 GB RAM</li>
   </ul>
-  #}
+  <h2>Confirmed awards list</h2>
+  <ul>
+    <li>Trophies</li>
+    <li>Special Assembly tickets</li>
+    <li>Dinner with Umbra</li>
+    <li>+ others</li>
+  </ul>
+  <h2>Course credits</h2>
+  <p>If you are Aalto University or Helsinki University student, you will get one course credit for participating in Graffathon. More information at the hackathon.</p>
 </div>
 {% endblock %}
