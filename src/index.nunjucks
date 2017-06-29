@@ -13,7 +13,7 @@
         <p>Graffathon is a three-day computer graphics hackathon aimed for novices. Every participant will create a computer program that produces a non-interactive multimedia presentation also known as demo. The event is targeted at real beginners who have no previous graphics coding and/or demoscene experience. The demos can be made in small groups of two or three people. One can also make the demo by themselves or find a group at the event.</p>
         <p>The program consists of helpful presentations and workshops which guide you on how to create your first demo. In addition, we teach you the basics of demoscene and democulture.</p>
         {# <p><strong>Registration opens soon!</strong></p> #}
-        <a href="https://www.eventbrite.com/e/graffathon-2017-tickets-34637428481" class="btn">Register</a>
+        {# <<a href="https://www.eventbrite.com/e/graffathon-2017-tickets-34637428481" class="btn">Register</a> #}
         <div class="date"><div>30.6.–2.7.2017<br>Espoo, Finland</div></div>
       </div>
       <div class="disclaimer"><a href="https://www.youtube.com/playlist?list=PLmRDkQf8W1WHIUi0WtG2uuOPfqr4ve6F3">Background video from Graffathon 2016 oldschool competition from Youtube</a></div>
