@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td>18:30</td>
-        <td>Demoscene presentation</td>
+        <td><a href="{{ baseUrl }}downloads/demopresis-graffathon.pdf">Demoscene: 30 years of creative programming</a></td>
       </tr>
       <tr>
         <td>19:45</td>
